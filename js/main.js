@@ -3,7 +3,7 @@ function timerChange(){
 
     now = now.getTime();
 
-    var later = new Date ("May 17, 2018 00:00:01");
+    var later = new Date ("May , 2018 00:00:00");
 
     later = later.getTime();
 
